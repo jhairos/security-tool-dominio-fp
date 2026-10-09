@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Security Tool Jairo Suntaxi C: evidence-based triage of blocked domains and suspected DNS false positives"
+type: software
+authors:
+  - family-names: "Suntaxi Cocanguilla"
+    given-names: "Medardo Jairo"
+version: "3.0.0"
+date-released: "2026-10-09"
+license: MIT
+repository-code: "https://github.com/jhairos/security-tool-dominio-fp"
+keywords:
+  - DNS security
+  - OSINT
+  - false positives
+  - Extended DNS Errors
+  - phishing triage

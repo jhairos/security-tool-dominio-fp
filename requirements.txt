@@ -1,0 +1,20 @@
+# Security Tool Jairo Suntaxi C - dependencias
+#
+#     pip install -r requirements.txt
+#     python -m playwright install chromium
+#
+# tkinter forma parte de Python. "dig" se instala aparte: en Windows
+# dentro de WSL 2 (sudo apt install dnsutils), en Linux con dnsutils o
+# bind-utils.
+
+# Interfaz (opcional: sin ella se usa tkinter/ttk)
+customtkinter>=5.2.0
+
+# Captura de las fuentes publicas
+playwright>=1.40.0
+
+# Composicion de la salida de dig como imagen
+pillow>=10.0.0
+
+# Reporte DOCX
+python-docx>=1.1.0
